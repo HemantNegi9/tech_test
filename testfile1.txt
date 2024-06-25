@@ -1,0 +1,39 @@
+-- Most Frequently asked Selenium Questions --
+1) Why do we prefer TestNG over JUnit for the testing framework?
+2)What are the different ways to input text other than sendkeys()?
+3)What are the Relative Locators with respect to Selenium 4?
+4)Is it possible to read PDF files using Selenium WebDriver? If yes, then how?
+5)How would you automate a CAPTCHA using a Selenium WebDriver?
+6)How can you read Barcode if it is present on a Web Page?
+7)Why are we getting StaleElementReference Exception in Selenium? Give Reasons.
+8) For Angular/React/Node.js Based Application which automation tool do you prefer -Selenium, Cypress or Playwright and Why?
+9) What kind of tests should not be automated?
+10) Which XPath Axes do you know?
+11) Compare Selenium WebDriver v3 vs v4 - Key features.
+12) How can you disable images on a Web Page as it takes more to load a page?
+13) How would you handle the alert popups in Selenium WebDriver?
+14)How will you handle dynamic elements by
+using XPath?
+15) What is the Test Automation Pyramid?
+16) Suppose a file is 100mb, how can I wait for the file to be downloaded completely?
+17) Explain Soft Assertions & Hard Assertions in the Automation Framework.
+18) Can you access the OTP code from your email through Selenium Automation? If yes then how?
+19) How to handle Psuedo-Elements by Selenium WebDriver?
+20) How to handle a Browser Based Authentication pop-up in a Selenium WebDriver?
+21) How can you handle cookies in a Selenium WebDriver? Will you be able to use the same cookies to restore the session of Web application?
+22)How would you automate a scenario where you need to verify specific colors -Theme testing?
+23) What are the different Chrome Options you have used so far in your automation framework?
+24) The Automation script needs to run on multiple browsers and platforms. How do you handle this?
+25)How will you give the total time required for the test case to automate?
+26) Are you able to automate the below WebElements:
+
+<canvas data-type="lower" width="489" height="211" class=""></canvas>
+<mat-select role="combobox"
+aria-autocomplete="none"
+aria-haspopup="listbox"
+class="mat-mdc-select"><!---></mat-select>
+
+27)How to select a good test automation tool for a project?
+28) What is SikuliX?
+29)What are the common Selenium Exceptions you faced so far and how have you handled them?
+30)What is the CI/CD pipeline & how will you implement it in your automation framework?
