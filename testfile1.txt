@@ -27,12 +27,6 @@ using XPath?
 25)How will you give the total time required for the test case to automate?
 26) Are you able to automate the below WebElements:
 
-<canvas data-type="lower" width="489" height="211" class=""></canvas>
-<mat-select role="combobox"
-aria-autocomplete="none"
-aria-haspopup="listbox"
-class="mat-mdc-select"><!---></mat-select>
-
 27)How to select a good test automation tool for a project?
 28) What is SikuliX?
 29)What are the common Selenium Exceptions you faced so far and how have you handled them?
