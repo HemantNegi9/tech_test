@@ -13,4 +13,23 @@ https://www.youtube.com/watch?v=aH5_FpkHsH4 ------ Bech may kahi bhi jab barat k
 https://www.youtube.com/watch?v=W_kM4AZb3RM&t=302s ------- Phere k time pay.
 
 https://www.youtube.com/watch?v=AvV9HJXMzGw -----------Bidai k time(Video)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+1) Why do we prefer TestNG over JUnit for the testing framework?
+2)What are the different ways to input text other than sendkeys()?
+3)What are the Relative Locators with respect to Selenium 4?
+4)Is it possible to read PDF files using Selenium WebDriver? If yes, then how?
+5)How would you automate a CAPTCHA using a Selenium WebDriver?
 
