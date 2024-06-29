@@ -26,7 +26,6 @@ using XPath?
 24) The Automation script needs to run on multiple browsers and platforms. How do you handle this?
 25)How will you give the total time required for the test case to automate?
 26) Are you able to automate the below WebElements:
-
 27)How to select a good test automation tool for a project?
 28) What is SikuliX?
 29)What are the common Selenium Exceptions you faced so far and how have you handled them?
