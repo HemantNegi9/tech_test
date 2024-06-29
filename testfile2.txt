@@ -16,17 +16,6 @@ https://www.youtube.com/watch?v=AvV9HJXMzGw -----------Bidai k time(Video)
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 1) Why do we prefer TestNG over JUnit for the testing framework?
 2)What are the different ways to input text other than sendkeys()?
 3)What are the Relative Locators with respect to Selenium 4?
